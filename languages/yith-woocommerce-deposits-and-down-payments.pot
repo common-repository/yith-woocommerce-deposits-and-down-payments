@@ -1,0 +1,506 @@
+# Copyright (C) 2018 YITH WooCommerce Deposits and Down Payments
+# This file is distributed under the same license as the YITH WooCommerce Deposits and Down Payments package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Deposits and Down Payments 1.2.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2018-10-24 12:57:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class.yith-wcdp-admin.php:80
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:81
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:127
+msgid "YITH Plugins"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:148
+#: includes/class.yith-wcdp-admin.php:149
+msgid "Deposits and Down Payments"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:308
+#: includes/class.yith-wcdp-admin.php:665
+#: includes/class.yith-wcdp-admin.php:687
+#: includes/class.yith-wcdp-frontend.php:365
+#: includes/class.yith-wcdp-frontend.php:372
+#: includes/class.yith-wcdp-frontend.php:388
+#: plugin-options/settings-options.php:92 templates/my-deposits.php:26
+#: templates/my-deposits.php:27
+msgid "Deposit"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:478
+msgctxt "Admin: column heading in \"Orders\" table"
+msgid "Balances"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:595
+msgctxt "Admin: Single order page. Suborder details box"
+msgid "Balance Orders"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:595
+msgid ""
+"Note: from this box you can monitor the status of suborders concerning full "
+"payments."
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:599
+msgctxt "Admin: Single order page. Info box with parent order details"
+msgid "Deposit order"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:651
+msgctxt "Admin: single order page. Link to parent order"
+msgid "Back to main order"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:666
+#: includes/class.yith-wcdp-admin.php:689
+#: includes/class.yith-wcdp-frontend.php:339 includes/class.yith-wcdp.php:481
+msgid "Balance"
+msgstr ""
+
+#: includes/class.yith-wcdp-admin.php:746
+msgid "Full payment order"
+msgstr ""
+
+#: includes/class.yith-wcdp-frontend.php:333 includes/class.yith-wcdp.php:480
+msgid "Full price"
+msgstr ""
+
+#: includes/class.yith-wcdp-frontend.php:389
+msgid "Full payment"
+msgstr ""
+
+#: includes/class.yith-wcdp-frontend.php:446
+#: includes/class.yith-wcdp-frontend.php:542
+msgid "of"
+msgstr ""
+
+#: includes/class.yith-wcdp-frontend.php:485
+msgid "Partially Paid"
+msgstr ""
+
+#: includes/class.yith-wcdp-frontend.php:560
+msgid "View Full Payment"
+msgstr ""
+
+#: includes/class.yith-wcdp-frontend.php:600 includes/class.yith-wcdp.php:508
+msgid "Pay"
+msgstr ""
+
+#: includes/class.yith-wcdp-frontend.php:607
+msgid "Cancel"
+msgstr ""
+
+#: includes/class.yith-wcdp-frontend.php:613 includes/class.yith-wcdp.php:514
+msgid "View"
+msgstr ""
+
+#: includes/class.yith-wcdp-suborders.php:305
+msgid "Suborder status changed to reflect parent order status change"
+msgstr ""
+
+#: includes/class.yith-wcdp-suborders.php:372
+msgid "There was an error while processing suborder for item #%d (%s)"
+msgstr ""
+
+#: includes/class.yith-wcdp-suborders.php:413
+msgid "There was an error while processing suborder"
+msgstr ""
+
+#: includes/class.yith-wcdp-suborders.php:447
+msgid "This order has been created to allow payment of the balance"
+msgstr ""
+
+#: init.php:118
+msgid ""
+"%s is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+
+#: init.php:128
+msgid ""
+"You can't activate the free version of %s while you are using the premium "
+"one."
+msgstr ""
+
+#: plugin-options/settings-options.php:54
+msgid "General"
+msgstr ""
+
+#: plugin-options/settings-options.php:61
+msgid "Enable plugin features"
+msgstr ""
+
+#: plugin-options/settings-options.php:63
+msgid "Check this box to enable plugin"
+msgstr ""
+
+#: plugin-options/settings-options.php:69
+#: templates/admin/product-deposit-tab.php:27
+msgid "Enable deposit"
+msgstr ""
+
+#: plugin-options/settings-options.php:71
+msgid ""
+"Check this option to enable deposit for all products (this behaviour can be "
+"overridden in product page)"
+msgstr ""
+
+#: plugin-options/settings-options.php:77
+#: templates/admin/product-deposit-bulk-edit.php:41
+#: templates/admin/product-deposit-tab.php:38
+msgid "Force deposit"
+msgstr ""
+
+#: plugin-options/settings-options.php:79
+msgid ""
+"Check this option to force deposit for all the products (this behaviour can "
+"be overridden in product page)"
+msgstr ""
+
+#: plugin-options/settings-options.php:99
+msgid "Deposit Amount"
+msgstr ""
+
+#: plugin-options/settings-options.php:101
+msgid "Deposit required per product"
+msgstr ""
+
+#: plugin-options/settings-options.php:114
+msgid "Shipping Handling"
+msgstr ""
+
+#: plugin-options/settings-options.php:116
+msgid ""
+"Select how to handle shipping for products that need to be shipped, when "
+"balance order switches to completed"
+msgstr ""
+
+#: plugin-options/settings-options.php:119
+msgid "Use default shipping method"
+msgstr ""
+
+#: plugin-options/settings-options.php:120
+msgid "Show shipping selection form to users on single product page"
+msgstr ""
+
+#: plugin-options/settings-options.php:121
+msgid ""
+"Select a shipping method to apply to all orders with products that require "
+"shipping"
+msgstr ""
+
+#: plugin-options/settings-options.php:128
+msgid "Shipping Method"
+msgstr ""
+
+#: plugin-options/settings-options.php:130
+msgid "Select shipping method for products purchased with deposit"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:229
+#: templates/admin/deposits-premium-panel.php:382
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Deposits and Down "
+"Payments%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:232
+#: templates/admin/deposits-premium-panel.php:385
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:233
+#: templates/admin/deposits-premium-panel.php:386
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:239
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:247
+msgid "Fixed or percent amount?"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:250
+msgid ""
+"More flexibility in setting the value of the deposit: it can either be a "
+"fixed amount or it can be a percent value of the product price. If you "
+"select the latter option, %1$sthe deposit will be dynamically calculated on "
+"each product.%2$s"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:260
+msgid "Deposit expiry date"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:263
+msgid ""
+"If you want the full payment to be completed within a specific number of "
+"days since the %1$sdeposit is paid%2$s, this is a feature that suits you!"
+"%3$sThis way, you will be able to hurry users and receive full payment "
+"within a specified date."
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:279
+msgid "Email notifications"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:282
+msgid ""
+"Email notifications help both users and admins to be updated in %1$sreal time"
+"%2$s about what happens in the shop. The plugin forwards two different types "
+"of emails:"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:286
+msgid "deposit paid (both admin and users are notified)"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:289
+msgid "expiring deposit (users are notified))"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:300
+msgid "Prevent online balance"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:303
+msgid ""
+"If you want to %1$sprevent online payment for the balance%2$s, this plugin "
+"is just what you need! Users will not be able to complete their order in "
+"\"My Account\" page, but they will be forced to pay the rest in situ"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:319
+msgid "Custom labels for plugin buttons"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:322
+msgid ""
+"Use default labels available in the plugin or customize them as you prefer."
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:332
+msgid "Notes on products"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:335
+msgid ""
+"Enter a note for each product in the shop and choose where displaying it in "
+"the page that appears to users. One more opportunity to add %1$smore "
+"information%2$s that could turn out useful to buyers."
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:351
+msgid "Different types of deposit"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:354
+msgid ""
+"The amount of a deposit can vary. If you want that it is the same for all "
+"products in the shop, create specific rules to calculate it automatically "
+"depending on the %1$sproduct%2$s and/or on the %1$scategory%2$s it belongs. "
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:357
+msgid ""
+"But this is not the whole story! Assign a role to your %1$susers%2$s and "
+"calculate the deposit according to their role."
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:370
+msgid "Variable products"
+msgstr ""
+
+#: templates/admin/deposits-premium-panel.php:373
+msgid ""
+"Now, %1$sfull support for variable products!%2$s Thanks to the premium "
+"version of the plugin you could configure a different deposit for the "
+"available product variations.%3$s This will allow managing %1$seach single "
+"variation%2$s as a simple product of your shop."
+msgstr ""
+
+#: templates/admin/product-deposit-bulk-edit.php:26
+msgid "Deposit?"
+msgstr ""
+
+#: templates/admin/product-deposit-bulk-edit.php:29
+#: templates/admin/product-deposit-bulk-edit.php:40
+#: templates/admin/product-deposit-tab.php:28
+#: templates/admin/product-deposit-tab.php:37
+msgid "Default"
+msgstr ""
+
+#: templates/admin/product-deposit-bulk-edit.php:30
+#: templates/admin/product-deposit-tab.php:30
+msgid "Yes"
+msgstr ""
+
+#: templates/admin/product-deposit-bulk-edit.php:31
+#: templates/admin/product-deposit-tab.php:31
+msgid "No"
+msgstr ""
+
+#: templates/admin/product-deposit-bulk-edit.php:37
+msgid "Force?"
+msgstr ""
+
+#: templates/admin/product-deposit-bulk-edit.php:42
+#: templates/admin/product-deposit-tab.php:39
+msgid "Allow deposit"
+msgstr ""
+
+#: templates/admin/product-deposit-tab.php:29
+msgid "Check this option to enable payment of deposit for this product"
+msgstr ""
+
+#: templates/admin/product-deposit-tab.php:36
+msgid "Accept or force deposit"
+msgstr ""
+
+#: templates/loop-add-deposit-to-cart.php:28
+msgid "Pay Deposit"
+msgstr ""
+
+#: templates/my-deposits.php:26
+msgid "%s Details"
+msgstr ""
+
+#: templates/my-deposits.php:27
+msgid ""
+"Some products in this order have been bought with %s. In order to complete "
+"the transaction and to ship the products, all remaining amounts have to be "
+"paid. Here follow details with owned balance for items in this order:"
+msgstr ""
+
+#: templates/my-deposits.php:32
+msgid "Order"
+msgstr ""
+
+#: templates/my-deposits.php:33
+msgid "Product"
+msgstr ""
+
+#: templates/my-deposits.php:34
+msgid "Status"
+msgstr ""
+
+#: templates/my-deposits.php:35
+msgid "Paid"
+msgstr ""
+
+#: templates/my-deposits.php:36
+msgid "To be paid"
+msgstr ""
+
+#: templates/my-deposits.php:61
+msgid "Subtotal: "
+msgstr ""
+
+#: templates/my-deposits.php:65
+msgid "Discount: "
+msgstr ""
+
+#: templates/my-deposits.php:70
+msgid "Shipping: "
+msgstr ""
+
+#: templates/my-deposits.php:75
+msgid "Taxes: "
+msgstr ""
+
+#: templates/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr ""
+
+#: templates/shipping-calculator.php:39
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: templates/shipping-calculator.php:57 templates/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: templates/shipping-calculator.php:64
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: templates/shipping-calculator.php:75
+msgid "State / County"
+msgstr ""
+
+#: templates/shipping-calculator.php:84
+msgid "City"
+msgstr ""
+
+#: templates/shipping-calculator.php:92
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: templates/shipping-calculator.php:97
+msgid "Update Shipping Methods"
+msgstr ""
+
+#: templates/single-add-deposit-to-cart.php:29
+msgid "Pay full amount"
+msgstr ""
+
+#: templates/single-add-deposit-to-cart.php:33
+msgid "Pay deposit"
+msgstr ""
+
+#: templates/single-add-deposit-to-cart.php:38
+msgid ""
+"This action will let you pay a deposit of <span class=\"deposit-price\">%s</"
+"span> for this product"
+msgstr ""
+
+#: templates/single-add-deposit-to-cart.php:44
+msgid ""
+"Please, select a shipping method for delivery of your product when balance "
+"is paid"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Deposits and Down Payments"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://yithemes.com/themes/plugins/yith-woocommerce-deposits-and-down-"
+"payments/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Deposits and Down Payments</strong></code> "
+"allows your customers to make a deposit for the products they want to "
+"purchase and to pay the balance only at a later time, either online or in "
+"your shop. Giving your customers the possibility to book a room or to "
+"confirm a service on demand, like a party room or the reservation for a "
+"tour, has never been so easy. <a href=\"https://yithemes.com/\" target="
+"\"_blank\">Get more plugins for your e-commerce on <strong>YITH</strong></a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""
